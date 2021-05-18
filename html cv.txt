@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+html,body {font-family:"Verdana",sans-serif}
+h1,h2,h3,h4,h5,h6 {font-family:"Segoe UI",sans-serif}
+</style>
+<script src=""></script>
+<body>
+
+
+<h1>Matthew Harby </h1>
+ 
+<p>12 Auden way, Dover, Kent, CT170WX
+<p>Mobile: 07780135976
+<p>Email: matthewharby@hotmail.com
+<p>Profile:
+<p>Highly motivated and punctual individual with 3 years retail, 5 years military experience and 2 years health care assistant. Giving a diverse individual that is able to handle stressful situations but will also be able to communicate and understand the responsibilities and task given to him, completing them in an efficient and correct manner. Independent and reliable no matter what. Able to use his own initiative and work as part of a team. Always willing to learn and develop.
+<p>Career summary:
+<p>Health care assistant - March 2019 to current date.
+<p>Outline:
+<p>Provide private and personal care to service users allowing them to live independently in their own homes. Supporting and promoting independency, providing a service to help with their daily life. responsibilities included medication, washing, support in dressing when required, eating/preparing meals, house cleaning, social and shopping. Being a carer is a very rewarding job when you see the impact you have on the service user’s life and the happiness you can bring when they see you. Being a carer has furthered my communication skills and being able to adapt to others.
+<p>Key responsibilities:
+<p>Medication 
+<p>Personal care 
+<p>Promote independence.  
+
+<p>Royal Navy - March 2014 to March 2019
+<p>Outline:
+<p>Working as a part of a cohesive unit to protect British waters. Main responsibility was warfare specialist which consisted of me using technical equipment to identify ships and communicate between other ships and units. When I was not doing my career job, I was part of a firefighting team and trained to administer basic first aid at a basic level, trained by medical staff. As a part of a team I had whole ship responsibilities such as ships maintenance and safety towards others and equipment such as extinguishers and BA (breathing apparatus). Many senior naval personnel depend on me when they need jobs completed quickly knowing that they could rely on me to complete them.
+<p>Key responsibilities
+<p> Firefighting and damage control
+<p>First aid
+<p>Communications between different ships
+<p>warfare related jobs (radar and sonar)
+<p>Ships protection
+
+<p> Mc Donald’s 2012- February 2014
+<p>Outline:
+<p>Employed as crew member mainly doing things from cashier to front of house cleaning. Getting this as my first job made me grow up and learn how to communicate accordingly to the different types of customers I would deal with on a daily basis.  Worked there whilst waiting for my joining date in the royal navy.
+Key responsibilities:.</p>
+<p>This is a another paragraph.</p>
+
+</body>
+</html>
